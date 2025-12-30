@@ -11,10 +11,10 @@ last_name: Choi
 #   You can even add a little note about which of these is the best way to reach you.
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student working on computational imaging. # space x2 required
+  PhD student working on computational imaging.
 
 footer_text: >
-  Seungman Choi. Powered by Jekyll and al-folio. Hosted on GitHub Pages. # space x2 required
+  Powered by Jekyll and al-folio. Hosted on GitHub Pages. 
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website
 lang: en
