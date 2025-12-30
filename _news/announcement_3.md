@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Paper:** Published "Poisson wavefront imaging in photon-starved scenarios" in *JOSA B*.
+**(Paper)** Published "Poisson wavefront imaging in photon-starved scenarios" in *JOSA B*.
