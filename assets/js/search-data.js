@@ -33,11 +33,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Reference/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-award-preselected-for-the-bilsland-dissertation-fellowship-jan-mar-2027",
+            },},{id: "news-award-preselected-for-the-bilsland-dissertation-fellowship-jan-mar-2027",
           title: 'Award: Preselected for the Bilsland Dissertation Fellowship (Jan–Mar 2027)',
+          description: "",
+          section: "News",},{id: "news-paper-published-poisson-wavefront-imaging-in-photon-starved-scenarios-in-josa-b",
+          title: 'Paper: Published “Poisson wavefront imaging in photon-starved scenarios” in JOSA B.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
