@@ -27,7 +27,14 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
-      - name: Install dependencies
+      # 🔥 핵심: 시스템 의존성 설치
+      - name: Install system dependencies (ImageMagick + Jupyter)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick python3-pip
+          pip install jupyter nbconvert
+
+      - name: Install Ruby dependencies
         run: bundle install
 
       - name: Build site
