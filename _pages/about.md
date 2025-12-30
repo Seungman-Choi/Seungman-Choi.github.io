@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "**Ph.D. student in Electrical and Computer Engineering, Purdue University**"
+subtitle: "**Keywords: Computational Imaging, Estimation Theory, Optimization Methods, Information Theory**"
 
 profile:
   align: right
