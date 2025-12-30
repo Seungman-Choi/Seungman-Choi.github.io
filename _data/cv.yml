@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Seungman Choi
+    - name: email
+      value: choi846(at)purdue.edu
     - name: Languages
       value: English, Japanese, Korean (Native)
 
