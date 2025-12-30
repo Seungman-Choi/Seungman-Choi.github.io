@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-trip-on-sky-validation-at-mcdonald-telescope",
-          title: '(Trip) On-sky validation at Mcdonald telescope',
+            },},{id: "news-trip-on-sky-demonstration-at-mcdonald-telescope",
+          title: '(Trip) On-sky demonstration at Mcdonald telescope',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_0/";
