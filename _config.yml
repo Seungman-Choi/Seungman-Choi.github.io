@@ -30,7 +30,6 @@ back_to_top: true
 # Theme
 # -----------------------------------------------------------------------------
 # enable dark mode toggle
-enable_darkmode: true
 
 # force 2-state toggle (light <-> dark)
 darkmode_toggle: simple
