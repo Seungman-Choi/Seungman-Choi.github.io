@@ -51,10 +51,7 @@
     - title: Experimental Technique
       items:
         - Photo-lithography
-        - Optical imaging system design:
-          - Vacuum system
-          - Microscopy
-          - Astronomical imaging systems
+        - Optical imaging system design (vacuum systems, microscopy, astronomical imaging)
 
 - title: Other Interests
   type: list
