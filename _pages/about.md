@@ -29,6 +29,11 @@ latest_posts:
 
 I'm a Ph.D. student in Electrical and Computer Engineering at Purdue University,
 advised by [Prof. Zubin Jacob](https://scholar.google.com/citations?user=8FXvN_EAAAAJ&hl=en&oi=ao) (2022–present).
+My research focuses on physics-informed computational imaging for
+super-resolution under severe physical constraints, including low-photon
+conditions and optical distortions. The goal of my work is to achieve
+performance beyond the diffraction limit in challenging astronomical and
+semiconductor imaging scenarios.
           
 # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
