@@ -37,7 +37,7 @@ ninja.data = [{
           title: '(Award) Preselected for the Bilsland Dissertation Fellowship (Jan–Mar 2027)',
           description: "",
           section: "News",},{id: "news-paper-published-poisson-wavefront-imaging-in-photon-starved-scenarios-in-josa-b",
-          title: 'Paper: Published “Poisson wavefront imaging in photon-starved scenarios” in JOSA B.',
+          title: '(Paper) Published “Poisson wavefront imaging in photon-starved scenarios” in JOSA B.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
