@@ -13,7 +13,7 @@ related_posts: false
       </p>
       <p>
         To evaluate how our computational imaging approach reconstruct the scene in the real world, 
-        we visited the McDonald Observatory for on-sky imaging demonstrations (Nov. 27-Dec. 4, 2025). 
+        we visited the McDonald Observatory for on-sky imaging demonstrations (Nov. 27–Dec. 4, 2025). 
         This trip provided an opportunity to move beyond simulations and laboratory experiments and test our reconstruction algorithms under actual observing conditions.
       </p>
   </div>
