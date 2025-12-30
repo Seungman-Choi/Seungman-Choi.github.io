@@ -29,6 +29,21 @@ back_to_top: true
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
+# default theme on first load
+theme: light
+# enable dark mode toggle
+enable_darkmode: true
+
+# force 2-state toggle (light <-> dark)
+darkmode_toggle: simple
+
+# color schemes
+light_theme: light
+dark_theme: dark
+
+# misc
+emit_metadata: 0
+lang: en
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
