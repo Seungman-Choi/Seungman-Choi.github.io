@@ -32,7 +32,7 @@ ninja.data = [{
           title: '(Trip) On-sky validation of diffraction-limited imaging through turbulence',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/Announcement_0/";
+              window.location.href = "/news/announcement_0/";
             },},{id: "news-award-preselected-for-the-bilsland-dissertation-fellowship-jan-mar-2027",
           title: '(Award) Preselected for the Bilsland Dissertation Fellowship (Jan–Mar 2027)',
           description: "",
