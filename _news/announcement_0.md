@@ -11,7 +11,7 @@ related_posts: false
   alt="McDonald Observatory night sky"
   style="
     float: right;
-    width: 300px;
+    width: 200px;
     margin: 0 0 1rem 1.5rem;
     border-radius: 6px;
   "
@@ -34,7 +34,7 @@ test our reconstruction algorithms under actual observing conditions.
   alt="On-sky imaging setup"
   style="
     float: right;
-    width: 300px;
+    width: 200px;
     margin: 0 0 1rem 1.5rem;
     border-radius: 6px;
   "
