@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Seungman 
+title: Seungman # the website title (if blank, full name will be used instead)
+first_name: Seungman
 middle_name:
 last_name: Choi
 contact_note: >
