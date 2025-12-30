@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Award:** Preselected for the *Bilsland Dissertation Fellowship* (Jan–Mar 2027)
+**(Award)** Preselected for the *Bilsland Dissertation Fellowship* (Jan–Mar 2027)
