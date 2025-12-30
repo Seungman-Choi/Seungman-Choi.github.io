@@ -28,11 +28,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/Reference/";
             },},{id: "news-award-preselected-for-the-bilsland-dissertation-fellowship-jan-mar-2027",
           title: '(Award) Preselected for the Bilsland Dissertation Fellowship (Jan–Mar 2027)',
           description: "",
