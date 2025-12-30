@@ -21,7 +21,7 @@ related_posts: false
   <div style="flex: 0 0 200px;">
     <img
       src="/assets/img/mcdonald_night.jpg"
-      alt="McDonald Observatory night sky"
+      alt="McDonald observatory night sky"
       style="width: 100%; border-radius: 6px;"
     />
     <p style="font-size: 0.85em; color: #666; text-align: center;">
