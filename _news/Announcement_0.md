@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **(Trip)** On-sky validation of diffraction-limited imaging through turbulence
+title: (Trip) On-sky validation of diffraction-limited imaging through turbulence
 date: 2025-12-04 16:11:00-0400
 inline: false
 related_posts: false
