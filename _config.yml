@@ -29,8 +29,6 @@ back_to_top: true
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
-# default theme on first load
-theme: light
 # enable dark mode toggle
 enable_darkmode: true
 
