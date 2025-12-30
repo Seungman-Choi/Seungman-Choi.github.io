@@ -32,4 +32,4 @@ my work aims to push imaging performance beyond conventional resolution limits, 
 
 My early training was in mechanical engineering, where I received both my B.S. and M.S. degrees from Tokyo Institute of Technology.
 I then worked as a research associate at KAIST while fulfilling my military service, under the supervision of [Prof. Seung-Woo Kim](https://scholar.google.com/citations?user=wHt0GtQAAAAJ&hl=en&oi=ao) and [Prof. Young-Jin Kim](https://scholar.google.com/citations?user=DqkYhz4AAAAJ&hl=en&oi=ao).
-During this period, I gained extensive hands-on experience in EUV beam and pulse shaping, as well as coherent diffraction imaging, which laid the foundation for my current research.
+During this period, I gained extensive hands-on experience in semiconductor manufacturing, EUV generation, and coherent diffraction imaging, forming the foundation of my current research.
