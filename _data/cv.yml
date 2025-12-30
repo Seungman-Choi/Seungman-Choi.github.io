@@ -38,20 +38,28 @@
 - title: Skill
   type: nested_list
   contents:
-    - title: Theory
+    - title: Clean room nanofabrication
       items:
-        - Information Theory
-        - Estimation Theory
-        - Optimization
-    - title: Programming
+        - Deep reactive-ion etching
+        - Photon-lithography
+    - title: Optical system design
+      items:
+        - Vacume optics systems
+        - Microscopy
+        - Astonomical telescopic imaging system
+        - Pump-probe spectroscopy
+    - title: Computational algorithm
+      items:
+        - Coherent diffraction imaging (Ptychography)
+        - Double blind-deconvolution
+        - Deep image prior
+        - Genetic algorithm
+    - title: Programming language
       items:
         - Python
         - Matlab
         - Labview
-    - title: Experimental Technique
-      items:
-        - Photo-lithography
-        - Optical imaging system design (vacuum systems, microscopy, astronomical imaging)
+    
 
 - title: Other Interests
   type: list
