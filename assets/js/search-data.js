@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-trip-on-sky-validation-of-diffraction-limited-imaging-through-turbulence",
+          title: '(Trip) On-sky validation of diffraction-limited imaging through turbulence',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Announcement_0/";
