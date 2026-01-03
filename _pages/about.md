@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "**Keywords: Computational Imaging, Optimization, Information Theory**"
+subtitle: "**Keywords: Computational Imaging, Optimization, Information Theory, Nonlinear Optics**"
 
 profile:
   align: right
