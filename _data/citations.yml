@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-01-16'
 papers:
   Wj_qMUcAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: Dynamic ultraviolet harmonic beam pattern control by programmable spatial wavefront modulation of near-infrared fundamental beam
     year: '2023'
   Wj_qMUcAAAAJ:D03iK_w7-QYC:
-    citations: 0
+    citations: 2
     title: Programmable structured DUV illumination by coherent harmonic generation at crystalline solids for nanometer-resolution inspection of periodic samples
     year: '2025'
   Wj_qMUcAAAAJ:HoB7MX3m0LUC:
-    citations: 6
+    citations: 7
     title: Coherent manipulation of extreme-ultraviolet Bessel vortex beams from solids by active wavefront shaping of driving fundamental beams
     year: '2023'
   Wj_qMUcAAAAJ:J_g5lzvAfSwC:
@@ -42,19 +42,19 @@ papers:
     title: EUV High Harmonic Generation from Solids with Propagation Control Capabilities
     year: '2022'
   Wj_qMUcAAAAJ:a0OBvERweLwC:
-    citations: 0
+    citations: 1
     title: Photon-starved imaging through turbulence at the diffraction limit
     year: '2025'
-  Wj_qMUcAAAAJ:f2IySw72cVMC:
+  Wj_qMUcAAAAJ:bFI3QPDXJZMC:
     citations: 1
     title: Poisson wavefront imaging in photon-starved scenarios
-    year: '2025'
+    year: '2026'
   Wj_qMUcAAAAJ:fPk4N6BV_jEC:
     citations: 3
     title: "Production of monodisperse oil-in-water droplets and polymeric microspheres below 20 \u03BCm using a PDMS-based step emulsification device"
     year: '2025'
   Wj_qMUcAAAAJ:ns9cj8rnVeAC:
-    citations: 5
+    citations: 6
     title: Compensation of laser propagation effects within solids for high harmonic generation of extreme ultraviolet radiation
     year: '2022'
   Wj_qMUcAAAAJ:pqnbT2bcN3wC:
@@ -66,6 +66,6 @@ papers:
     title: Coherent Extreme-ultraviolet Spatial Manipulation in Solid Harmonic Generation via Dynamic Wavefront Modulation of Near-infrared Driving Beams
     year: '2024'
   Wj_qMUcAAAAJ:u_35RYKgDlwC:
-    citations: 3
+    citations: 4
     title: Telescope imaging beyond the Rayleigh limit in extremely low SNR
     year: '2024'
