@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-02-13'
 papers:
   Wj_qMUcAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Dynamic deep-ultraviolet beam pattern structuring in nonlinear third harmonic generation by spatial wavefront modulation of near-infrared driving laser
     year: '2025'
   Wj_qMUcAAAAJ:70eg2SAEIzsC:
-    citations: 3
+    citations: 4
     title: Dynamic ultraviolet harmonic beam pattern control by programmable spatial wavefront modulation of near-infrared fundamental beam
     year: '2023'
   Wj_qMUcAAAAJ:D03iK_w7-QYC:
@@ -66,6 +66,6 @@ papers:
     title: Coherent Extreme-ultraviolet Spatial Manipulation in Solid Harmonic Generation via Dynamic Wavefront Modulation of Near-infrared Driving Beams
     year: '2024'
   Wj_qMUcAAAAJ:u_35RYKgDlwC:
-    citations: 4
+    citations: 5
     title: Telescope imaging beyond the Rayleigh limit in extremely low SNR
     year: '2024'
