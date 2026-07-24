@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-24'
 papers:
   Wj_qMUcAAAAJ:35N4QoGY0k4C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Dynamic ultraviolet harmonic beam pattern control by programmable spatial wavefront modulation of near-infrared fundamental beam
     year: '2023'
   Wj_qMUcAAAAJ:D03iK_w7-QYC:
-    citations: 3
+    citations: 4
     title: Programmable structured DUV illumination by coherent harmonic generation at crystalline solids for nanometer-resolution inspection of periodic samples
     year: '2025'
   Wj_qMUcAAAAJ:HoB7MX3m0LUC:
@@ -26,7 +26,7 @@ papers:
     title: Development of Bipolar Electrostatic Chuck with a Beam-Array Assembly Fabricated by Lithography
     year: '2022'
   Wj_qMUcAAAAJ:NMxIlDl6LWMC:
-    citations: 10
+    citations: 11
     title: Development of a bipolar electrostatic chuck module with a beam-array assembly using the multiple etching process
     year: '2018'
   Wj_qMUcAAAAJ:NaGl4SEjCO4C:
@@ -66,6 +66,6 @@ papers:
     title: Coherent Extreme-ultraviolet Spatial Manipulation in Solid Harmonic Generation via Dynamic Wavefront Modulation of Near-infrared Driving Beams
     year: '2024'
   Wj_qMUcAAAAJ:u_35RYKgDlwC:
-    citations: 5
+    citations: 7
     title: Telescope imaging beyond the Rayleigh limit in extremely low SNR
     year: '2024'
