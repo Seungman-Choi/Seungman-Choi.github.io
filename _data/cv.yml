@@ -57,6 +57,7 @@
         - Deep image prior
         - Genetic algorithm
     - title: Theory & modeling
+      item:
         - Estimation theory
         - Information theory
         - quantum parameter estimation
