@@ -15,10 +15,11 @@
       institution: Purdue University, West Lafayette, IN
       year: 2022-Current
       description:
+        - Super-resolution imaging beyond diffraction limit
         - Diffraction limited imaging through turbulence
-        - Super-resolution imaging beyond Rayleigh limit
         
-    - title: Research Associate
+        
+    - title: Research Associate (military duty)
       institution: KAIST, Daejeon, KR
       year: 2019-2022
       description:
@@ -35,7 +36,7 @@
       institution: Tokyo Institute of Technology, Tokyo, JP
       year: 2013-2017
       description:
-        - Flexible electrostatic gripper development
+        - Flexible electrostatic gripping system
 
 - title: Skill
   type: nested_list
@@ -43,27 +44,31 @@
     - title: Clean room nanofabrication
       items:
         - Deep reactive-ion etching
-        - Photon-lithography
+        - Photonlithography
     - title: Optical system design
       items:
-        - Vacume optics systems
+        - Vacuum-based optics systems
         - Microscopy
-        - Astonomical telescopic imaging system
-        - Pump-probe spectroscopy
-    - title: Computational algorithm
+        - Astronomical instrumentation
+    - title: Computational methods
       items:
-        - Coherent diffraction imaging (Ptychography)
-        - Double blind-deconvolution
+        - Coherent diffraction imaging (ptychography)
+        - Blind-deconvolution
         - Deep image prior
         - Genetic algorithm
+    - title: Theory & modeling
+        - Estimation theory
+        - Information theory
+        - quantum parameter estimation
+        - Statistical noise modeling
     - title: Programming language
       items:
         - Python
-        - Matlab
-        - Labview
+        - MATLAB
+        - LabVIEW
     
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Basketball, football, single-player games.
+    - <u>Hobbies:</u> Basketball, football.
